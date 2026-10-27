@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v1.4.0/DEMOS-Gold-v1.4.0-arm64.apk",
-  "sha256": "319f5a13e6e65e47914df7f570192db6838d9ee6805eec3c02113b35e1a7a28b",
-  "notes": "Completely redesigned UI: compact Overview, Rates, bar gallery, gold vault and purchase form. Dollar and Settings are now under More. Fixes layout overflows, preserves all purchases and source settings.",
+  "version": "1.4.1",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v1.4.1/DEMOS-Gold-v1.4.1-arm64.apk",
+  "sha256": "7d58563f031e66a0eee38d16af2f244109dacd3e43cbc524ff84b332cb845ebf",
+  "notes": "Fixes gold prices showing unavailable for all providers and Flutter red crash in About these prices. Adds retry/switch source, preserves saved gold purchases and API key.",
   "channel": "test"
 }
