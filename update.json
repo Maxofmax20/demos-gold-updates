@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v1.2.0/DEMOS-Gold-v1.2.0-arm64.apk",
-  "sha256": "3f170327f443ec75eb2bd08e519540b520ace6f9904483f0bbac1f2c9096e180",
-  "notes": "Adds eDahab and Golden Circle price sources, customer buyback vs retail labels, market comparison and price snapshot timestamps; your holdings and API key remain saved.",
+  "version": "1.3.0",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v1.3.0/DEMOS-Gold-v1.3.0-arm64.apk",
+  "sha256": "9fcb84981427bbf53aafe3c15800040e0e46a37f5e59a27344dce124dcae83bd",
+  "notes": "Smaller by ~20%, faster gold price and BTC/GTC listing navigation, lower image memory, scroll position saved, safer price refreshes. Purchases and saved API keys are preserved.",
   "channel": "test"
 }
