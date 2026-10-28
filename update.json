@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.1.0/DEMOSVAULT-v2.1.0-arm64.apk",
-  "sha256": "8dbfa61c2030684dd07d39759dbe0d78cdc06e73bc94956de50fc69facd5dca3",
-  "notes": "One-word DEMOSVAULT branding, new crowned gold-D vault icon, more polished responsive Gold Rates layout and EGP next to every available gram price. Existing gold, cash, debts and local settings are preserved.",
+  "version": "2.2.0",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.2.0/DEMOSVAULT-v2.2.0-arm64.apk",
+  "sha256": "ab30460420221f803de2ea531a2a75ee2cab268ef9b44e3be7a2ced678818eb9",
+  "notes": "Speed and UI improvements: parallel gold/USD data refresh, temporary USD FX caching, fewer repeated requests, smoother gold-bar source parsing, bar filters remembered across tabs, compact price controls and cleaner error messages. Existing gold, cash, debt data preserved.",
   "channel": "test"
 }
