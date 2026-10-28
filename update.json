@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0 (test)",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.3.0-rc.1/DEMOSVAULT-v2.3.0-test-arm64.apk",
-  "sha256": "812e038e215355330feefc063f3609579749c1b935c15019f07e2f08e94ccad8",
-  "notes": "TEST update: first optimized VPS-native Android release (20.4 MB). Same app signature, package and financial-record storage. Install OVER v2.2.0, do not uninstall or clear data. Phone launch and financial-data preservation still require your verification.",
+  "version": "2.2.0",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.2.0/DEMOSVAULT-v2.2.0-arm64.apk",
+  "sha256": "ab30460420221f803de2ea531a2a75ee2cab268ef9b44e3be7a2ced678818eb9",
+  "notes": "Stable v2.2.0. The v2.3.0 optimized test build has a startup-crash report and is temporarily withdrawn. Do not install the v2.3.0 test APK.",
   "channel": "test"
 }
