@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.0.0/DEMOS-Vault-v2.0.0-arm64.apk",
-  "sha256": "ec6433b5b7fabf8c8b19382a1044710da6ded96df59e490bb34eb2edb036d373",
-  "notes": "DEMOS Gold is now DEMOS Vault: new icon and navigation, EGP/USD cash wallets, debts in currencies, gold grams or manufacturer bars, settlement, due dates and estimated net worth. Your old gold purchases and API key are retained.",
+  "version": "2.1.0",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.1.0/DEMOSVAULT-v2.1.0-arm64.apk",
+  "sha256": "8dbfa61c2030684dd07d39759dbe0d78cdc06e73bc94956de50fc69facd5dca3",
+  "notes": "One-word DEMOSVAULT branding, new crowned gold-D vault icon, more polished responsive Gold Rates layout and EGP next to every available gram price. Existing gold, cash, debts and local settings are preserved.",
   "channel": "test"
 }
