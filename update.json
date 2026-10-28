@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.2.0/DEMOSVAULT-v2.2.0-arm64.apk",
-  "sha256": "ab30460420221f803de2ea531a2a75ee2cab268ef9b44e3be7a2ced678818eb9",
-  "notes": "Stable v2.2.0. The v2.3.0 optimized test build has a startup-crash report and is temporarily withdrawn. Do not install the v2.3.0 test APK.",
+  "version": "2.3.1",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.3.1-recovery/DEMOSVAULT-v2.3.1-recovery-arm64.apk",
+  "sha256": "9c90b7df620865fba1722ee281aa65e1ba613082ef52ace97a0758f38bf4eba1",
+  "notes": "Crash recovery for v2.3.0: restores the previously working Android build packaging. Signed with the existing owner key. Install directly over your current app; DO NOT uninstall or clear storage. Android versionCode 12. This recovery is a test release pending device confirmation.",
   "channel": "test"
 }
