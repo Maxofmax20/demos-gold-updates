@@ -1,8 +1,8 @@
 {
-  "version": "2.5.4 RC1 (test)",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.5.4-rc.1/DEMOSVAULT-v2.5.4-rc1-usd-profit.apk",
-  "sha256": "9034345ede4c6197c7578ae341f609846f39b7de2d9ea6fde14843002ab26298",
-  "notes": "TEST CHANNEL only: DEMOSVAULT 2.5.4 adds USD acquisition rates and estimated profit/loss, and keeps the 2.5.3 gold bar editing and purchase improvements. This is a signed debug-mode PRE-RELEASE that has not passed physical-device testing. Back up your data first; install over your existing app without uninstalling or clearing storage.",
+  "version": "2.5.5 RC1 (test)",
+  "versionCode": 19,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.5.5-rc.1/DEMOSVAULT-v2.5.5-test-arm64.apk",
+  "sha256": "c87c3067af2fbd674668442182706415dd5f3f638c24f1de1e7b2e5189b17e8d",
+  "notes": "TEST CHANNEL only: better portfolio Home, physical gold-bar counts, purchase cost vs estimated resale, clearer wallets/debt due dates and complete-price warnings. Signed VPS-built debug-mode pre-release. Back up financial data and install OVER your current app. Do not uninstall or clear storage. Physical-device upgrade not yet verified.",
   "channel": "test"
 }
