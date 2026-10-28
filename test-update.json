@@ -1,8 +1,8 @@
 {
-  "version": "2.5.2 RC1 (test)",
-  "versionCode": 16,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.5.2-rc.1/DEMOSVAULT-v2.5.2-rc1-test.apk",
-  "sha256": "63fe9d38c6a431af6743e8203fc1aeadb8e2feadc2d5bf8f937a810174171ac5",
-  "notes": "TEST CHANNEL ONLY: gold bar weight/count/price, opt-in update channels and corrected release-status messaging. Signed by existing owner. Install over current DEMOSVAULT, never uninstall or clear financial records. On-device startup/upgrade safety still needs confirmation.",
+  "version": "2.5.3 RC1 (test)",
+  "versionCode": 17,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.5.3-rc.1/DEMOSVAULT-v2.5.3-rc.1-arm64.apk",
+  "sha256": "47cbc949d8dc3d320aaff68391a1fb3a5d0726d4528dd0f7f5c671d17a528d00",
+  "notes": "TEST CHANNEL: edit gold directly in Assets; newly added bars default to 24K; explicitly confirm correction of existing 21K bars to 24K while retaining original weight, quantity, price and fees. Signed VPS-built test APK; install over existing app without uninstalling. Physical-device upgrade/data verification still required.",
   "channel": "test"
 }
