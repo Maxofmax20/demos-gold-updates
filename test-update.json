@@ -1,8 +1,8 @@
 {
-  "version": "2.6.1 RC1 (test)",
-  "versionCode": 24,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.1-rc.1/DEMOSVAULT-v2.6.1-rc1-arm64.apk",
-  "sha256": "4d378ae33a349ba989455cb694f3d01b5fa934f3023434446f0135edd1635037",
-  "notes": "TEST: Interactive portfolio, gold and USD/EGP charts. Actual-date spacing, tap/drag to inspect observed values, clearer labels and date axes, portfolio net/assets/cash/gold/liabilities series and 7D/30D/90D/1Y range controls, partial/empty/single-point notices. 144 Flutter tests passed. Same Android package and signing certificate as v2.6.0. Install over the app, never uninstall or clear data. On-device checks are pending.",
+  "version": "2.6.2 RC1 (test)",
+  "versionCode": 25,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.2-rc.1/DEMOSVAULT-v2.6.2-rc1-arm64.apk",
+  "sha256": "0f2e90a0bb21856503a9d606695127111fdd0ca2383595df0e4badb8d811b404",
+  "notes": "TEST HOTFIX: Fix the red Flutter error in Assets > Debts and the separate Debts view when a debt has payment history. A page scroll-position double had collided with a payment-history expansion boolean. Expansion tiles now use unique PageStorageKeys per debt. Reproduced the original crash before fixing it, then 146 Flutter tests passed. No financial data, balances or ledger entries changed. Build 25 uses the previous signing certificate. Install over the app without uninstalling or clearing data; physical phone verification pending.",
   "channel": "test"
 }
