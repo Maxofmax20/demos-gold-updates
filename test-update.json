@@ -1,8 +1,8 @@
 {
-  "version": "2.5.8 RC1 (test)",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.5.8-rc.1/DEMOSVAULT-v2.5.8-rc1-arm64.apk",
-  "sha256": "47bcb4aaf22beea1228bbf6351bd3d067b63c4a95b3be8426cdff6a49b5b3de0",
-  "notes": "TEST CHANNEL: Pay outstanding EGP/USD debts from a selected wallet in Assets > Debts. Full or partial payments deduct from the wallet, reduce debt, and create Activity history together. 126 automated tests passed and the existing Android owner signature was verified. Install over your current app and back up your financial data first. Do not uninstall or clear data. Physical-device acceptance remains pending.",
+  "version": "2.6.0 RC1 (test)",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.0-rc.1/DEMOSVAULT-v2.6.0-rc1-arm64.apk",
+  "sha256": "0536491bae624c8fa923c3273920e5d674c82841df81af114ff5eb8c9bce52c7",
+  "notes": "TEST CHANNEL: Financial reliability and debt management. Reverse new recorded transactions (only when linked records are unchanged), collect debts into wallets, settle physical gold debts, track installments and opt-in local due reminders, add expense categories/monthly budgets/confirmed recurring transactions, reconcile wallets, and export PDF/XLSX/CSV. 140 Flutter tests passed and owner signing certificate verified. Back up your existing data, install OVER the app, never uninstall or clear data. Physical-device checks remain pending.",
   "channel": "test"
 }
