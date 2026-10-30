@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0 RC1 (test)",
-  "versionCode": 23,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.0-rc.1/DEMOSVAULT-v2.6.0-rc1-arm64.apk",
-  "sha256": "0536491bae624c8fa923c3273920e5d674c82841df81af114ff5eb8c9bce52c7",
-  "notes": "TEST CHANNEL: Financial reliability and debt management. Reverse new recorded transactions (only when linked records are unchanged), collect debts into wallets, settle physical gold debts, track installments and opt-in local due reminders, add expense categories/monthly budgets/confirmed recurring transactions, reconcile wallets, and export PDF/XLSX/CSV. 140 Flutter tests passed and owner signing certificate verified. Back up your existing data, install OVER the app, never uninstall or clear data. Physical-device checks remain pending.",
+  "version": "2.6.1 RC1 (test)",
+  "versionCode": 24,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.1-rc.1/DEMOSVAULT-v2.6.1-rc1-arm64.apk",
+  "sha256": "4d378ae33a349ba989455cb694f3d01b5fa934f3023434446f0135edd1635037",
+  "notes": "TEST: Interactive portfolio, gold and USD/EGP charts. Actual-date spacing, tap/drag to inspect observed values, clearer labels and date axes, portfolio net/assets/cash/gold/liabilities series and 7D/30D/90D/1Y range controls, partial/empty/single-point notices. 144 Flutter tests passed. Same Android package and signing certificate as v2.6.0. Install over the app, never uninstall or clear data. On-device checks are pending.",
   "channel": "test"
 }
