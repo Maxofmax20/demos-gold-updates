@@ -1,8 +1,8 @@
 {
-  "version": "2.5.6 RC1 (test)",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.5.6-rc.1/DEMOSVAULT-v2.5.6-market-analytics-arm64.apk",
-  "sha256": "dfa133919d47b4112af3d72f85c4f0c98fd912b627eff42ed27cf5d49a7f3ef9",
-  "notes": "TEST ONLY — v2.5.6 adds USD/EGP and gold market price analytics while retaining grouped bar purchases, bar weight and quantity tracking, financial ledger, and encrypted backups. Owner-signed VPS-built Android test APK. The upgrade and backup restore are not yet verified on a physical device. Export an encrypted backup first, install OVER the current app, never uninstall or clear its data.",
+  "version": "2.5.8 RC1 (test)",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.5.8-rc.1/DEMOSVAULT-v2.5.8-rc1-arm64.apk",
+  "sha256": "47bcb4aaf22beea1228bbf6351bd3d067b63c4a95b3be8426cdff6a49b5b3de0",
+  "notes": "TEST CHANNEL: Pay outstanding EGP/USD debts from a selected wallet in Assets > Debts. Full or partial payments deduct from the wallet, reduce debt, and create Activity history together. 126 automated tests passed and the existing Android owner signature was verified. Install over your current app and back up your financial data first. Do not uninstall or clear data. Physical-device acceptance remains pending.",
   "channel": "test"
 }
