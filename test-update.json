@@ -1,8 +1,8 @@
 {
-  "version": "2.6.6 RC1 (test)",
-  "versionCode": 29,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.6-rc.1/DEMOSVAULT-v2.6.6-rc1-arm64.apk",
-  "sha256": "1100c0619b023fb5869bed18a1b9dc10ab99d3cfd3a70591a5e71ec8f29d0f1f",
-  "notes": "TEST: Gold Bullion (automatic · licensed) selectable in Prices/Settings. Requires authorized first-party HTTPS feed and official provider access: NOT CONNECTED until configured. Validates price identities, freshness, 24/22/21/18/14K buyback/retail quotes; no source substitution. Manual Gold Bullion remains available. 172 Flutter tests and owner signing verified, physical-device test pending.",
-  "channel": "test"
+  "version": "2.6.7 RC1 (test)",
+  "versionCode": 30,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.7-rc.1/DEMOSVAULT-v2.6.7-rc1-arm64.apk",
+  "sha256": "cf9955e9716d1d109e2e048a35649ff3adcf49ab727aade031bbcfcccc2b6cf2",
+  "channel": "test",
+  "notes": "TEST: Gold Bullion public website prices automatically collected every 30 min on VPS via persistent Docker and published to HTTPS GitHub feed. App source Gold Bullion (automatic · website) needs no manual setup. Validated 24/22/21/18/14K buyback and retail; shows snapshot observed time, NOT a publisher update time. Rejects stale/incomplete quotes and protects saved wallet/debt/gold records. 175 Flutter + 23 backend tests passed, owner APK signature verified; physical-device upgrade not yet verified."
 }
