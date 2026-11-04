@@ -1,8 +1,8 @@
 {
-  "version": "2.6.7 RC1 (test)",
-  "versionCode": 30,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.7-rc.1/DEMOSVAULT-v2.6.7-rc1-arm64.apk",
-  "sha256": "cf9955e9716d1d109e2e048a35649ff3adcf49ab727aade031bbcfcccc2b6cf2",
+  "version": "2.6.8 RC1 (test)",
+  "versionCode": 31,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.8-rc.1/DEMOSVAULT-v2.6.8-rc1-arm64.apk",
+  "sha256": "d9e4555ab10e48807b46a108379880966833ffe89bc486c7e4287d1983a1084f",
   "channel": "test",
-  "notes": "TEST: Gold Bullion public website prices automatically collected every 30 min on VPS via persistent Docker and published to HTTPS GitHub feed. App source Gold Bullion (automatic · website) needs no manual setup. Validated 24/22/21/18/14K buyback and retail; shows snapshot observed time, NOT a publisher update time. Rejects stale/incomplete quotes and protects saved wallet/debt/gold records. 175 Flutter + 23 backend tests passed, owner APK signature verified; physical-device upgrade not yet verified."
+  "notes": "TEST: Adds Force check now beside Automatic market price refresh in Settings and beside Gold price history in Analytics. Checks selected source on demand with cache bypass, shows progress/results, and leaves locally saved holdings, wallets, debts and records intact. Upgrade over the existing app; do not uninstall or clear data. This is a signed test build; on-device verification is pending."
 }
