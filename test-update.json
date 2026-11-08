@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0 RC2 (test)",
-  "versionCode": 33,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.7.0-rc.2/DEMOSVAULT-v2.7.0-rc2-arm64.apk",
-  "sha256": "6b4a8e3c961a5aaf62ea0ee9a89a859bcb1e9b6adb828bd52ab29e0f22a64038",
+  "version": "2.7.1 RC1 (test)",
+  "versionCode": 34,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.7.1-rc.1/DEMOSVAULT-v2.7.1-rc1-arm64.apk",
+  "sha256": "19ce24b96d2c1790ee73963c456917f067e334aa6ebe33160178039bdeb71fa8",
   "channel": "test",
-  "notes": "TEST RC2: Combined display of all USD wallets with weighted purchase rate and profit/loss; new Buy USD form calculates actual EGP per dollar from amount paid, debits the selected EGP wallet and credits the selected USD wallet in one reversible transaction. Current USD value uses National Bank of Egypt bank buying rate, with selling rate shown separately (third-party Banklive mirror; observed time visible). RC2 corrects installed version checking after upgrade. 184/184 Flutter tests pass; signed APK verified with same owner certificate. Back up data before updating; install over current app without uninstalling. Physical-phone upgrade verification pending."
+  "notes": "TEST RC1: Each USD purchase creates its own separate holding without adding to an older USD wallet or blending prices. Choose EGP actually paid (calculates rate) or the price per USD (calculates EGP to pay); selected EGP wallet is deducted once. Previously merged USD purchases are safely separated from exact saved transaction snapshots when unchanged, with no extra EGP debit, and skipped if historical data differs. USD total remains an aggregate view only. 190/190 Flutter tests passed; original owner APK signing verified. Back up first and install OVER the app, do not uninstall or clear app data. Device upgrade validation remains pending."
 }
