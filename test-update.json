@@ -1,8 +1,8 @@
 {
-  "version": "2.6.8 RC1 (test)",
-  "versionCode": 31,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.6.8-rc.1/DEMOSVAULT-v2.6.8-rc1-arm64.apk",
-  "sha256": "d9e4555ab10e48807b46a108379880966833ffe89bc486c7e4287d1983a1084f",
+  "version": "2.7.0 RC2 (test)",
+  "versionCode": 33,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.7.0-rc.2/DEMOSVAULT-v2.7.0-rc2-arm64.apk",
+  "sha256": "6b4a8e3c961a5aaf62ea0ee9a89a859bcb1e9b6adb828bd52ab29e0f22a64038",
   "channel": "test",
-  "notes": "TEST: Adds Force check now beside Automatic market price refresh in Settings and beside Gold price history in Analytics. Checks selected source on demand with cache bypass, shows progress/results, and leaves locally saved holdings, wallets, debts and records intact. Upgrade over the existing app; do not uninstall or clear data. This is a signed test build; on-device verification is pending."
+  "notes": "TEST RC2: Combined display of all USD wallets with weighted purchase rate and profit/loss; new Buy USD form calculates actual EGP per dollar from amount paid, debits the selected EGP wallet and credits the selected USD wallet in one reversible transaction. Current USD value uses National Bank of Egypt bank buying rate, with selling rate shown separately (third-party Banklive mirror; observed time visible). RC2 corrects installed version checking after upgrade. 184/184 Flutter tests pass; signed APK verified with same owner certificate. Back up data before updating; install over current app without uninstalling. Physical-phone upgrade verification pending."
 }
