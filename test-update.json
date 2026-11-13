@@ -1,8 +1,8 @@
 {
-  "version": "2.7.1 RC1 (test)",
-  "versionCode": 34,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.7.1-rc.1/DEMOSVAULT-v2.7.1-rc1-arm64.apk",
-  "sha256": "19ce24b96d2c1790ee73963c456917f067e334aa6ebe33160178039bdeb71fa8",
-  "channel": "test",
-  "notes": "TEST RC1: Each USD purchase creates its own separate holding without adding to an older USD wallet or blending prices. Choose EGP actually paid (calculates rate) or the price per USD (calculates EGP to pay); selected EGP wallet is deducted once. Previously merged USD purchases are safely separated from exact saved transaction snapshots when unchanged, with no extra EGP debit, and skipped if historical data differs. USD total remains an aggregate view only. 190/190 Flutter tests passed; original owner APK signing verified. Back up first and install OVER the app, do not uninstall or clear app data. Device upgrade validation remains pending."
+  "version": "2.7.2 RC1 (test)",
+  "versionCode": 35,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.7.2-rc.1/DEMOSVAULT-v2.7.2-rc1-arm64.apk",
+  "sha256": "c0b0d30724cf6ed661d9e833d8c23f75c1dc6f69030c071ca155e45658ca90e1",
+  "notes": "TEST: Analytics adds combined gold + USD purchase cost, current estimated value, and realized + unrealized profit/loss; unknown historical costs or missing quotes never produce a guessed total. Activity adds Give a loan: choose the funding wallet and borrower; the amount is deducted atomically and a matching receivable is created. Partial/full repayments increase the wallet and reduce the receivable; safe reversal is supported. 193 Flutter tests passed, including the loan-entry UI flow. Signed with the existing owner certificate. Install over the existing app; DO NOT uninstall or clear app data. Physical-device upgrade verification pending.",
+  "channel": "test"
 }
