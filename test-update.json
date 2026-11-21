@@ -1,8 +1,8 @@
 {
-  "version": "2.7.2 RC1 (test)",
-  "versionCode": 35,
-  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.7.2-rc.1/DEMOSVAULT-v2.7.2-rc1-arm64.apk",
-  "sha256": "241c5e77444258e3f4f7fcf0f400d74810d3a8e74eaec54f372750237f495738",
-  "notes": "TEST: Analytics adds combined gold + USD purchase cost, current estimated value, and realized + unrealized profit/loss; unknown historical costs or missing quotes never produce a guessed total. Activity adds Give a loan: choose the funding wallet and borrower; the amount is deducted atomically and a matching receivable is created. Partial/full repayments increase the wallet and reduce the receivable; safe reversal is supported. 193 Flutter tests passed, including the loan-entry UI flow. Signed with the existing owner certificate. Install over the existing app; DO NOT uninstall or clear app data. Physical-device upgrade verification pending.",
+  "version": "2.7.3",
+  "versionCode": 36,
+  "apkUrl": "https://github.com/Maxofmax20/demos-gold-updates/releases/download/v2.7.3/DEMOSVAULT-v2.7.3-arm64.apk",
+  "sha256": "efa13d043448598ad51310f3814b7c00b5f6acf5b7021783c7103fc2d6223c7a",
+  "notes": "Gold Bullion live prices fixed: the app's snapshot validator now accepts the prices page (أسعار الذهب) as well as the homepage, so fresh prices load again instead of freezing at 13 Nov. 194 Flutter tests passed. Signed with the existing owner certificate. Install over the existing app; DO NOT uninstall or clear app data.",
   "channel": "test"
 }
